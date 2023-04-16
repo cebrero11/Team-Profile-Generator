@@ -34,6 +34,11 @@ N/A
  
 1. npm test
  
+
+## Video 
+
+[teamGenerator.webm](https://user-images.githubusercontent.com/43153891/232261025-0a6dded9-e695-4acb-af1c-73e2a40afe50.webm)
+
  
 
 ## Contributing 
